@@ -4,7 +4,7 @@
 
 At the moment I am building my web-dev portfolio projects. Also while learning threeJs, blender, cloud networking with AWS, and building on my current knowledge of frameworks I utilize.
 
-**langues, stacks, and tools:** <br />
+**languages, stacks, and tools:** <br />
 <code><img height="20" src="https://user-images.githubusercontent.com/94813546/177240704-062f31a7-ccc9-4d2d-8b4d-20f26c2fdd1f.svg"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/94813546/177241402-3cc27f5f-72fc-4a1c-b19b-418dc83d5167.svg"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/94813546/177241025-dffe0c09-cdd6-4fdc-821b-bb319dc2c1ff.svg"></code>
