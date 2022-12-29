@@ -2,7 +2,7 @@
   
 ### Hey, I'm tony, I like making stuff! 
 
-At the moment I am building my web-dev portfolio projects. Also while learning threeJs, blender, cloud networking with AWS, and building on my current knowledge of frameworks I utilize.
+At the momment I am seeking a full-stack developer role. Some of my hobbits are playing cs-go, learning blender/UE5, and football. Im currently learning cloud networking with AWS, and building on my current knowledge of frameworks I utilize.
 
 **languages, stacks, and tools:** <br />
 <code><img height="20" src="https://user-images.githubusercontent.com/94813546/177240704-062f31a7-ccc9-4d2d-8b4d-20f26c2fdd1f.svg"></code>
