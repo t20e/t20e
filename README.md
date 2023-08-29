@@ -32,9 +32,6 @@ At the momment I am seeking a full-stack developer role. Some of my hobbies are 
 <a href="https://discordapp.com/users/Tony_A#6525"> 
 <img height="20" src="https://user-images.githubusercontent.com/94813546/177243472-101069d4-5805-4c3e-ae73-669f432b9223.svg">
 </a>
-<a href="https://www.instagram.com/t20e.vsw/">
-<img height="20" src="https://user-images.githubusercontent.com/94813546/177243479-97b479a0-9926-4982-a634-9928fbf3db93.svg">
-</a>
 <a href="https://www.linkedin.com/in/tony-avis-16791a16b/">
 <img height="20" src="https://user-images.githubusercontent.com/94813546/177243487-6856584c-05c5-4e38-b3dc-6984b7f57e56.svg">
 </a>
