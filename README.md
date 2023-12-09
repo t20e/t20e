@@ -1,8 +1,8 @@
 <img height="60" src="https://user-images.githubusercontent.com/94813546/177244924-c900a7b6-16b0-4721-9486-9ce0c9650a39.gif"> 
   
-### Hey, I'm tony, I like making stuff! 
+### Hey, I'm tony, I like building stuff! 
 
-At the momment I am seeking a full-stack developer role. Some of my hobbies are playing cs-go, using blender/UE5, and football ⚽. Im currently learning cloud networking with AWS, and building on my current knowledge of frameworks I utilize.
+At the moment I'm exploring AI. Some of my hobbies are playing CS, using Blender/UE5, and football ⚽.
 
 **languages, stacks, and tools:** <br />
 <code><img height="20" src="https://user-images.githubusercontent.com/94813546/177240704-062f31a7-ccc9-4d2d-8b4d-20f26c2fdd1f.svg"></code>
