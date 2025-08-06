@@ -2,7 +2,7 @@
   
 ### Hey, I'm tony, I like building stuff! 
 
-At the moment I'm exploring AI. Some of my hobbies are playing CS, using Blender/UE5, and football ⚽.
+<!---
 
 **languages, stacks, and tools:** <br />
 <code><img height="20" src="https://user-images.githubusercontent.com/94813546/177240704-062f31a7-ccc9-4d2d-8b4d-20f26c2fdd1f.svg"></code>
@@ -20,19 +20,14 @@ At the moment I'm exploring AI. Some of my hobbies are playing CS, using Blender
 <code><img height="20" src="https://user-images.githubusercontent.com/94813546/177242437-7d58ede0-dc4a-412d-8492-49e05f0c21f3.svg"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/94813546/177242439-d77d5031-0ccc-44c1-ac95-15673b5f40a6.svg"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/94813546/177242547-58e1c825-41e3-4078-834a-fdb273b50bdf.svg"></code>
+-->
 
-
-
-
-
-
-
- 💬 get in touch with me <br />
+💬 get in touch with me <br />
  
 <a href="https://discordapp.com/users/Tony_A#6525"> 
-<img height="20" src="https://user-images.githubusercontent.com/94813546/177243472-101069d4-5805-4c3e-ae73-669f432b9223.svg">
+<img height="30" src="https://user-images.githubusercontent.com/94813546/177243472-101069d4-5805-4c3e-ae73-669f432b9223.svg">
 </a>
 <a href="https://www.linkedin.com/in/tony-avis-16791a16b/">
-<img height="20" src="https://user-images.githubusercontent.com/94813546/177243487-6856584c-05c5-4e38-b3dc-6984b7f57e56.svg">
+<img height="30" src="https://user-images.githubusercontent.com/94813546/177243487-6856584c-05c5-4e38-b3dc-6984b7f57e56.svg">
 </a>
 
