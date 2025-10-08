@@ -1,6 +1,5 @@
 <img height="60" src="https://user-images.githubusercontent.com/94813546/177244924-c900a7b6-16b0-4721-9486-9ce0c9650a39.gif"> 
-  
-### Hey, I'm tony, I like building stuff! 
+
 
 <!---
 
